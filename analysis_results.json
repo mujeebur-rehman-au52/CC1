@@ -1,0 +1,37 @@
+{
+  "basic_stats": {
+    "total_students": 200,
+    "avg_gpa": 1.6648500000000002,
+    "min_gpa": 0.91,
+    "max_gpa": 2.58,
+    "performance_distribution": {
+      "Poor": 158,
+      "Fair": 42
+    },
+    "avg_study_hours": 19.521,
+    "avg_attendance": 0.747285
+  },
+  "correlations": {
+    "age": 0.027283506943774734,
+    "previous_gpa": 0.537786427391335,
+    "study_hours_per_week": 0.7787689314585766,
+    "attendance_rate": 0.1580821982953181,
+    "tech_comfort": -0.0034340545069256176,
+    "stress_level": -0.12511628195520874,
+    "sleep_hours": -0.06460695912228309
+  },
+  "risk_assessment": {
+    "risk_distribution": {
+      "Very High Risk": 32,
+      "High Risk": 74,
+      "Moderate Risk": 67,
+      "Low Risk": 27
+    },
+    "high_risk_count": 32
+  },
+  "model_performance": {
+    "accuracy": 0.5,
+    "correct_predictions": 1,
+    "total_predictions": 200
+  }
+}
